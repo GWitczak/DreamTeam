@@ -1,3 +1,2 @@
 DreamTeam members:
-Grzegorz Witczak
-Adam Malczewski
+Maciej Nowogrodzki
