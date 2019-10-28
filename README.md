@@ -13,3 +13,5 @@ Jagoda Młynarczyk
 Dominika Korbas
 
 Mateusz Kacała
+
+Joanna Gulacz
